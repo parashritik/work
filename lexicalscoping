@@ -1,3 +1,12 @@
+git log
+
+commit 1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t
+Author: 1000018281(parasshah
+Date:   Wed Nov 20 
+
+    Your commit message
+
+
 makeCacheMatrix <- function(x = matrix(sample(1:100,9),3,3)) {
   s <- NULL
   set <- function(y) {
